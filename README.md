@@ -1,8 +1,8 @@
 # Creating Telegram BNB Mini Apps: A How-to Guide for Developers (June 18, 2024)
 
-Launching decentralized applications on Telegram has become increasingly popular due to it giving users access to mini apps and games without requiring them to install additional software. The Telegram platform allows developers to create "mini apps" that can be accessed directly within the Telegram interface, providing an easy way for users to interact with blockchain-based services. This lowers the barriers to entry for users and makes it simple for developers to distribute their apps to a large Telegram audience.
+Launching decentralized applications on Telegram has become increasingly popular due to it giving users access to mini apps and games without requiring them to install additional software, providing an easy way for users to interact with blockchain-based services. This lowers the barriers to entry for users and makes it simple for developers to distribute their apps to a large Telegram audience.
 
-This guide will walk you through the steps for building a basic Telegram mini app on BNB in just a few hours. We will use a simple counter application demo to illustrate the development and deployment process. By the end, you will have the skills to launch your own BNB project on Telegram’s open platform. The code is available on GitHub, with detailed comments explaining each section. Whether you are a blockchain expert or just starting out, this tutorial aims to demystify decentralized app creation. So let’s get started building on BSC! The possibilities are endless when you master Telegram mini apps.
+This guide will walk you through the steps for building a basic Telegram mini app on BNB in just a few hours. By the end, you will have the skills to launch your own BNB project on Telegram’s open platform. Whether you are a blockchain expert or just starting out, this tutorial aims to demystify decentralized app creation. So let’s get started building on BSC! The possibilities are endless when you master Telegram mini apps.
 
 ---
 
